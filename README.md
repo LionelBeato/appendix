@@ -4,7 +4,7 @@
 
 - *abstract/abstract class* : in Java, a class implementation that must be overridden if extended. Abstract code has no direct implementation when declared. 
 
-- *absraction* : the concept that code implementation should be hidden or obfuscated. 
+- *abstraction* : the concept that code implementation should be hidden or obfuscated. 
 
 ## B
 
@@ -86,7 +86,9 @@
 
 ## T
 
-- *type casting* : to assign the value of one primitive to another. 
+- *type casting* : to assign the value of one primitive to another.
+
+- *Test Driven Development* : a software development process in which tests are written first before main classes are implemented. This follows the cycle of having tests fails, refactoring, and testing again to see if tests will pass.
 
 ## #4 
 
