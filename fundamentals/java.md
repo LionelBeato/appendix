@@ -20,9 +20,25 @@
 - What's the difference between an abstract class and an interface?
 - What are the four principles of Object-Oriented Programming?
 - Can you give examples of each principle?
+- Can you make an instance of a class?
+- Do you know what it means to be *static*?
+- Can you explain what an *expression is?
+- Can you explain what a statement is?
+- Can you explain what a code block is?
+- Do you know what scope means?
+- Do you know the significance of the *main* method?
 
 ## Intermediate
 
 - Can you explain what a build tool is?
 - Can you explain why you would use Maven for your project?
 - Do you know what dependencies are?
+- Can you explain how Java handles memory managements?
+- Can you explain the string pool?
+
+## Advanced
+
+- Can you implement a *functional interface*?
+- Can you explain the concept behind anonymous classes?
+- Do you know how to employ a *lambda expression*?
+- Do you know how to employ a *method reference*?

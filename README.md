@@ -1,4 +1,4 @@
-# Glossary 
+# Glossary
 
 ## A
 
@@ -82,7 +82,7 @@
 
 ## S
 
-- *source code* : the human readable, programmed code for an application. 
+- *source code* : the human readable, programmed code for an application.
 
 ## T
 
@@ -97,9 +97,3 @@
     2. *Encapsulation*
     3. *Inheritance*
     4. *Polymorphism*
-
-
-
-
-
-
