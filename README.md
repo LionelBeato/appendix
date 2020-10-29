@@ -1,26 +1,30 @@
 # Glossary
 
+*Repo for the definition of OOP/Java related terms.*
+
 ## A
 
-- *abstract/abstract class* : in Java, a class implementation that must be overridden if extended. Abstract code has no direct implementation when declared. 
+- *abstract/abstract class* : in Java, a class implementation that must be overridden if extended. Abstract code has no direct implementation when declared.
 
-- *abstraction* : the concept that code implementation should be hidden or obfuscated. 
+- *abstraction* : the concept that code implementation should be hidden or obfuscated.
 
 ## B
 
 - *best practice(s)* : an established way of doing things. 
 
-- *byte code* : compact, portable code that can be compiled into machine-code. 
+- *byte code* : compact, portable code that can be compiled into machine-code.
 
 ## C
 
-- *class* : a discrete grouping of data that can be instatiated. 
+- *class* : a discrete grouping of data that can be instatiated.
 
 - *code smell* : something that indicates poorly written code.
 
-- *compiling* : to convert source code into machine-code or byte code. 
+- *compiling* : to convert source code into machine-code or byte code.
 
-- *compiler* : a program that converts--or *compiles*--code. 
+- *compiler* : a program that converts--or *compiles*--code.
+
+<!-- consumer definition -->
 
 ## D
 
@@ -70,6 +74,8 @@
 
 - *pull*, *pulling* : in reference to git, to sync code with a local repository. 
 
+<!-- provider definition -->
+
 ## R
 
 - *refactor* : to change code for the better. 
@@ -90,7 +96,7 @@
 
 - *Test Driven Development* : a software development process in which tests are written first before main classes are implemented. This follows the cycle of having tests fails, refactoring, and testing again to see if tests will pass.
 
-## #4 
+## #4
 
 - *The 4 Pillars of OOP* : The major concepts and design patterns that are the backbone for object-oriented programming. The 4 Pillars are as followed:
     1. *Abstraction*

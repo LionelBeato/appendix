@@ -40,5 +40,5 @@
 
 - Can you implement a *functional interface*?
 - Can you explain the concept behind anonymous classes?
-- Do you know how to employ a *lambda expression*?
-- Do you know how to employ a *method reference*?
+- Do you know how to utilize a *lambda expression*?
+- Do you know how to utilize a *method reference*?
