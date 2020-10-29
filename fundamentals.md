@@ -7,7 +7,7 @@
 - Can you explain what Java is and what it's used for?
 - Do you know the distinction between the JDK, JRE, and JVM?
 - Can you write a Java program without the use of an IDE?
-- Do you know what makes Java 8 a significant update? 
+- Do you know what makes Java 8 a significant update?
 
 ## Basics
 
