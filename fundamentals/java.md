@@ -5,9 +5,33 @@
 ## Technical
 
 - Can you explain what Java is and what it's used for?
+  <details>
+        <summary>
+        gdgf
+        </summary>
+        gfdgfdgfg
+    </details>
 - Do you know the distinction between the JDK, JRE, and JVM?
+  <details>
+        <summary>
+        gdgf
+        </summary>
+        gfdgfdgfg
+    </details>
 - Can you write a Java program without the use of an IDE?
+    <details>
+        <summary>
+        gdgf
+        </summary>
+        gfdgfdgfg
+    </details>
 - Do you know what makes Java 8 a significant update?
+  <details>
+        <summary>
+        gdgf
+        </summary>
+        gfdgfdgfg
+    </details>
 
 ## Basics
 
