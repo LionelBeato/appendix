@@ -1,38 +1,14 @@
-# Java Fundamentals
+# Java Fundamentals ☕
 
 *This is a list of topics that you will need to review in order to have a good understanding of Java*
 
 ## Technical
 
 - Can you explain what Java is and what it's used for?
-  <details>
-        <summary>
-        gdgf
-        </summary>
-        gfdgfdgfg
-    </details>
 - Do you know the distinction between the JDK, JRE, and JVM?
-  <details>
-        <summary>
-        gdgf
-        </summary>
-        gfdgfdgfg
-    </details>
 - Can you write a Java program without the use of an IDE?
-    <details>
-        <summary>
-        gdgf
-        </summary>
-        gfdgfdgfg
-    </details>
 - Do you know what makes Java 8 a significant update?
-  <details>
-        <summary>
-        gdgf
-        </summary>
-        gfdgfdgfg
-    </details>
-
+  
 ## Basics
 
 - Do you know how to create a variable?
@@ -59,6 +35,7 @@
 - Do you know what dependencies are?
 - Can you explain how Java handles memory managements?
 - Can you explain the string pool?
+- What is a design pattern?
 
 ## Advanced
 
